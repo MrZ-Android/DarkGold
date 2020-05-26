@@ -3,8 +3,8 @@
 #Do not recode
 #recode singles for life
 # (MR.ALI IMRAN) MAKER
-#SUBSCRIBE CHANNEL TechnicalAli433
-#FOLLOW INSTAGRAM @TechnicalAli433
+
+
 
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
@@ -69,8 +69,8 @@ logo = """\033[1;96m█████████
 \033[1;96m╔══════════════════════════════════════════════╗
 \033[1;96m║\033[1;96m* \033[1;95mAuthor  \033[1;93m: \033[1;95mBrother•MR-W0lf \033[1;96m                ║
 \033[1;96m║\033[1;96m* \033[1;96mGitHub  \033[1;93m: \033[1;96m\033[4mhttps://github.com/Mr-W0lf\033[0m \033[1;96m     ║
-\033[1;96m║\033[1;96m*\033[1;93mEMAIL  \033[1;93m: \033[1;91m\033mdrkscurty@gmail.com\033[0m \033[1;96m   ║
-\033[1;96m║\033[1;97m*\033[1;97mGROUP\033[1;92m: \033[1;96m\033mAnonymouse Indonesia\033[0m \033[1;96m                   ║
+\033[1;96m║\033[1;96m*\033[1;93mEMAIL  \033[1;93m  : \033[1;91m\033mdrkscurty@gmail.com\033[0m \033[1;96m   ║
+\033[1;96m║\033[1;97m*\033[1;97mGROUP\033[1;92m    : \033[1;96m\033mAnonymouse Indonesia\033[0m \033[1;96m                   ║
 \033[1;96m╚══════════════════════════════════════════════╝"""
 
 # titik #
